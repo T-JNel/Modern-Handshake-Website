@@ -11,4 +11,12 @@ Salary negotiation prep
 Package deals
 Corporate/team workshops
 
+Tools I will be using:
+Planning:
+Milanote
+
+Coding:
+VS Code
+GitHub Desktop
+
 Disclaimer: It's important to note that this is a fictional company and this project is being built to prove my skills.
